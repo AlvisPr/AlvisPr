@@ -14,7 +14,7 @@ Eager Learner | Code Explorer | Turning Coffee into Code ☕🚀
 - 🛠️ Git: Version control superhero in the making.
 
 📚 **Learning:**
-- 📖 Currently exploring the basics of [Technology/Tool].
+- 📖 Currently exploring Algorythms and Data Structures.
 - 🚧 Building small projects to solidify my understanding.
 
 🎯 **Goals:**
