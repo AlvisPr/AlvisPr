@@ -1,4 +1,4 @@
-### 👋 Hey there! I'm [Your Name], a Junior Frontend Developer
+### 👋 Hey there! I'm Alvis Prieditis, a Junior Frontend Developer
 
 Eager Learner | Code Explorer | Turning Coffee into Code ☕🚀
 
