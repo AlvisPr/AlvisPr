@@ -6,7 +6,6 @@ Eager Learner | Code Explorer | Turning Coffee into Code ☕🚀
 - 👨‍💻 Junior Frontend Developer with a passion for building awesome user interfaces.
 - 🌱 Currently learning and growing in the exciting world of web development.
 - 🤝 Enthusiastic team player, always ready to collaborate and contribute.
-- 🌈 Turning ideas into code and striving for simplicity and elegance.
 
 🚀 **Skills:**
 - 💻 HTML, CSS, JavaScript: My coding trinity.
