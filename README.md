@@ -1,4 +1,4 @@
-# Hi there, I'm Alvis! 👋
+# Hi there, I'm Alvis! 
 
 I am a junior developer who is passionate about building web applications that make a difference. My journey into coding started with curiosity and has grown into a full-fledged passion. I am particularly interested in front-end development, where I can bring designs to life and create intuitive user experiences. In my free time, I love to explore new technologies and work on side projects to sharpen my skills.
 
@@ -25,23 +25,7 @@ I believe in continuous learning and am always looking for opportunities to coll
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="25"/>
 </p>
 
-## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvispr&show_icons=true&theme=radical)
-
-## 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://github.com/alvispr" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="25"/>
-  </a>
-  <a href="mailto:alvisprieditis.dev@gmail.com target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="25"/>
-  </a>
-  <a href="https://www.linkedin.com/in/alvisprieditis/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="25"/>
-  </a>
-</p>
 
 
 
