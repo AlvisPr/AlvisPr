@@ -48,21 +48,13 @@ I am a junior developer who is passionate about building web applications that m
 I believe in continuous learning and am always looking for opportunities to collaborate and learn from others in the community. If you have a project in mind or just want to chat about web development, feel free to reach out!
 
 
-## 🌱 What I'm Currently Learning
+## What I'm Currently Learning
 
 I'm currently diving deeper into:
 - Advanced React patterns
 - TypeScript for better code quality and maintainability
 - Backend development with Express.js and MongoDB
 
-## 👨‍💻 Projects
 
-### [Project 1: Personal Portfolio](https://github.com/alvispr/portfolio)
-A personal portfolio website showcasing my skills, projects, and resume. Built with HTML, CSS, and JavaScript.
 
-### [Project 2: Task Manager App](https://github.com/alvispr/task-manager)
-A full-stack task management app with user authentication, task creation, and management features. Built with React, Node.js, and MongoDB.
-
-<!-- Optionally include a visitor badge -->
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alvispr.alvispr)
 
