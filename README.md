@@ -1,6 +1,8 @@
 # Hi there, I'm Alvis! 👋
 
-I'm a Junior Developer passionate about crafting beautiful and functional web applications. My journey in web development has been fueled by a strong foundation in both front-end and back-end technologies. I enjoy problem-solving and am constantly learning to stay updated with the latest trends and best practices in web development.
+I am a junior developer who is passionate about building web applications that make a difference. My journey into coding started with curiosity and has grown into a full-fledged passion. I am particularly interested in front-end development, where I can bring designs to life and create intuitive user experiences. In my free time, I love to explore new technologies and work on side projects to sharpen my skills.
+
+I believe in continuous learning and am always looking for opportunities to collaborate and learn from others in the community. If you have a project in mind or just want to chat about web development, feel free to reach out!
 
 ## Technical Skills
 
@@ -41,19 +43,7 @@ I'm a Junior Developer passionate about crafting beautiful and functional web ap
   </a>
 </p>
 
-## 📚 About Me
 
-I am a junior developer who is passionate about building web applications that make a difference. My journey into coding started with curiosity and has grown into a full-fledged passion. I am particularly interested in front-end development, where I can bring designs to life and create intuitive user experiences. In my free time, I love to explore new technologies and work on side projects to sharpen my skills.
-
-I believe in continuous learning and am always looking for opportunities to collaborate and learn from others in the community. If you have a project in mind or just want to chat about web development, feel free to reach out!
-
-
-## What I'm Currently Learning
-
-I'm currently diving deeper into:
-- Advanced React patterns
-- TypeScript for better code quality and maintainability
-- Backend development with Express.js and MongoDB
 
 
 
