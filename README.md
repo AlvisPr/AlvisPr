@@ -2,7 +2,7 @@
 
 I'm a Junior Developer passionate about crafting beautiful and functional web applications. My journey in web development has been fueled by a strong foundation in both front-end and back-end technologies. I enjoy problem-solving and am constantly learning to stay updated with the latest trends and best practices in web development.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Front-End Development
 <p align="left">
@@ -23,7 +23,7 @@ I'm a Junior Developer passionate about crafting beautiful and functional web ap
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="40"/>
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvispr&show_icons=true&theme=radical)
 
@@ -33,10 +33,10 @@ I'm a Junior Developer passionate about crafting beautiful and functional web ap
   <a href="https://github.com/alvispr" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="40"/>
   </a>
-  <a href="mailto:alvis@example.com" target="_blank">
+  <a href="mailto:alvisprieditis.dev@gmail.com target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/alvispr" target="_blank">
+  <a href="https://www.linkedin.com/in/alvisprieditis/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
   </a>
 </p>
