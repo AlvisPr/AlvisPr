@@ -1,28 +1,43 @@
-### 👋 Hey there! I'm Alvis Prieditis, a Junior Frontend Developer
+# Hi there, I'm Alvis! 👋
 
-node updater.js ${{alvispr}} googledark
+Welcome to my GitHub profile! I'm a passionate web developer with a strong foundation in front-end and back-end technologies. I love creating interactive and dynamic web applications that provide excellent user experiences.
 
-Eager Learner | Code Explorer | Turning Coffee into Code ☕🚀
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvispr&show_icons=true&theme=radical)
 
-🌟 **About Me:**
-- 👨‍💻 Junior Frontend Developer with a passion for building awesome user interfaces.
-- 🌱 Currently learning and growing in the exciting world of web development.
-- 🤝 Enthusiastic team player, always ready to collaborate and contribute.
+## Skills
 
-🚀 **Skills:**
-- 💻 HTML, CSS, JavaScript: My coding trinity.
-- 📱 Responsive Design: Crafting user-friendly experiences across devices.
-- ⚛️ Learning React: Excited to dive into the world of front-end frameworks.
-- 🛠️ Git: Version control superhero in the making.
+### Front-End Development
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+</p>
 
-📚 **Learning:**
-- 📖 Currently exploring Algorythms and Data Structures.
-- 🚧 Building small projects to solidify my understanding.
+### Back-End Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
 
-🎯 **Goals:**
-- 🌟 Mastering React and other essential frontend technologies.
-- 🌐 Collaborating on open-source projects to contribute to the community.
-- 📚 Expanding my knowledge and skills in Redux.
+### Version Control
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-Excited to learn, grow, and contribute to the world of web development! Let's code together! 💻✨
+## Connect with me
 
+<p align="left">
+  <a href="https://github.com/alvispr" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:alvis@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/alvispr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<!-- Optionally include a visitor badge -->
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alvispr.alvispr)
