@@ -1,5 +1,7 @@
 ### 👋 Hey there! I'm Alvis Prieditis, a Junior Frontend Developer
 
+https://pixel-profile.vercel.app/api/github-stats?username=alvispr&screen_effect=true&theme=rainbow
+
 Eager Learner | Code Explorer | Turning Coffee into Code ☕🚀
 
 🌟 **About Me:**
