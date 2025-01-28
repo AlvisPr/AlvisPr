@@ -12,13 +12,6 @@ Motivated Full Stack Developer with a strong foundation in MERN stack technologi
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" height="25"/>
 </p>
 
-### Back-End Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" height="25"/>
-  <img src="https://img.shields.io/badge/Strapi-2E7EEA?style=flat-square&logo=strapi&logoColor=white" alt="Strapi" height="25"/>
-    <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" height="25"/>
-</p>
-
 ### Databases
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" height="25"/>
@@ -26,6 +19,12 @@ Motivated Full Stack Developer with a strong foundation in MERN stack technologi
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="25"/>
 </p>
 
+### Back-End Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" height="25"/>
+  <img src="https://img.shields.io/badge/Strapi-2E7EEA?style=flat-square&logo=strapi&logoColor=white" alt="Strapi" height="25"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" height="25"/>
+</p>
 
 ### Version Control
 <p align="left">
