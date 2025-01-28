@@ -15,7 +15,10 @@ Motivated Full Stack Developer with a strong foundation in MERN stack technologi
 ### Back-End Development
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" height="25"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" height="25"/>
+  <img src="https://img.shields.io/badge/Strapi-2E7EEA?style=flat-square&logo=strapi&logoColor=white" alt="Strapi" height="25"/>
 </p>
+
 
 ### Version Control
 <p align="left">
