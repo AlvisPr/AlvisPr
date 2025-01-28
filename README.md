@@ -1,8 +1,6 @@
 # Hi there, I'm Alvis! 
 
-I am a junior developer who is passionate about building web applications that make a difference. My journey into coding started with curiosity and has grown into a full-fledged passion. I am particularly interested in front-end development, where I can bring designs to life and create intuitive user experiences. In my free time, I love to explore new technologies and work on side projects to sharpen my skills.
-
-I believe in continuous learning and am always looking for opportunities to collaborate and learn from others in the community. If you have a project in mind or just want to chat about web development, feel free to reach out!
+Motivated Full Stack Developer with a strong foundation in MERN stack technologies (MongoDB, Express.js, React, Node.js) and web development best practices. Proficient in building end-to-end applications, including responsive front-end interfaces, scalable back-end services, and RESTful APIs. Completed professional training in Full Stack Software Development from MIT PROx and Front End Development from Meta. Strong communication, organizational, and problem-solving skills. Passionate about learning new technologies and contributing to impactful projects.
 
 ## Technical Skills
 
